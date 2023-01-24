@@ -4,7 +4,7 @@ plugins {
 }
 
 allprojects {
-    group "ru.otus"
+    group "kz.ibr"
 
     repositories {
         mavenLocal()

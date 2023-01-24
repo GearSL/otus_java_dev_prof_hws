@@ -1,4 +1,4 @@
 rootProject.name = 'otus_java_dev_prof_hws'
 include 'hw01-gradle'
-include 'L04-generics'
+include 'hw04-generics'
 
